@@ -1,0 +1,176 @@
+body,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,p,input,select,textarea,form{margin: 0; padding: 0;}
+
+body{font:14px/1.5 "宋体"; height: 100%;}
+
+img{border:none;}
+
+ul{list-style: none;}
+
+::-webkit-scrollbar{display: none;}
+
+.left{
+    width: 20%;
+    height: 100%;
+    background: #c616a0;
+    float: left;
+}
+
+.left img{
+    margin-top: 50px;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+
+.list_left{
+    margin-top: 10%;
+    width: 100%;
+    background: #55a532;
+    float: left;
+    text-align: center;
+}
+
+.list_left li {
+    padding: 20%;
+    background: red;
+    vertical-align: middle;
+    font-size: 30px;
+    border-bottom: 1px solid yellow;
+}
+
+.right{
+    width: 80%;
+    height: 100%;
+    background: black;
+    float: left;
+}
+
+.game{
+    width: 100%;
+    height: 100%;
+    background: #9a6e3a;
+    float: left;
+    overflow:scroll;
+}
+
+.game div{
+    width: 20%;
+    height: 20%;
+    float: left;
+    background: #55a532;
+    display: table-cell;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.game div img {
+    vertical-align:middle;
+}
+
+.lol {
+    width: 40%;
+}
+
+.dnf {
+    width: 60%;
+}
+
+.st {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.mus {
+    width: 46%;
+    border-radius: 20%;
+}
+
+.qmus {
+    width: 46%;
+    border-radius: 60%;
+}
+
+.chr {
+    width: 46%;
+    border-radius: 60%;
+}
+
+.zw {
+    width: 46%;
+    border-radius: 60%;
+}
+
+.qq {
+    width: 46%;
+    border-radius: 60%;
+}
+
+.bli {
+    width: 46%;
+    border-radius: 60%;
+}
+
+.xag {
+    width: 46%;
+    border-radius: 20%;
+}
+
+.ss{ display:inline-block; height:100%; vertical-align:middle;}
+
+.pass {
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    left: 20%;
+}
+
+.pass_con {
+    padding: 2%;
+    width: 60%;
+    height: 50%;
+    background: red;
+    position: absolute;
+    left: 15%;
+    top:30%;
+    overflow:scroll;
+    border-radius: 40px;
+}
+
+.pass ul {
+
+}
+
+.pass ul li {
+    font-size: 30px;
+    padding: 2%;
+}
+
+.pass ul li span {
+    font-size: 30px;
+}
+
+.de {
+    position: absolute;
+    left: 68%;
+    top: 33%;
+}
+
+.de img {
+    width:50px;
+}
+
+.fwq {
+    /*float: left;*/
+    /*margin-top: 3%;*/
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+.yzm {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    margin-left: -200px;    /* 宽度的一半 */
+}
