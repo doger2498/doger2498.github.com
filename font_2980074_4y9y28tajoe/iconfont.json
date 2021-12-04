@@ -1,0 +1,282 @@
+{
+  "id": "2980074",
+  "name": "list",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "190262",
+      "name": "数字0",
+      "font_class": "shuzi0",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "834281",
+      "name": "数字1",
+      "font_class": "shuzi1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "834285",
+      "name": "数字5",
+      "font_class": "shuzi5",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "851721",
+      "name": "数字2",
+      "font_class": "shuzi2",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "851722",
+      "name": "数字3",
+      "font_class": "shuzi3",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "851725",
+      "name": "数字6",
+      "font_class": "shuzi6",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "851726",
+      "name": "数字7",
+      "font_class": "shuzi7",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "851727",
+      "name": "数字8",
+      "font_class": "shuzi8",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "851728",
+      "name": "数字9",
+      "font_class": "shuzi9",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1013291",
+      "name": "数字4",
+      "font_class": "shuzi4",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "4770738",
+      "name": "减少数字",
+      "font_class": "jianshaoshuzi",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "4770755",
+      "name": "增加数字",
+      "font_class": "zengjiashuzi",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "13015619",
+      "name": "03-数字",
+      "font_class": "-shuzi",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "15323307",
+      "name": "B_square_字母b",
+      "font_class": "B_square",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "15323310",
+      "name": "F_square_字母f",
+      "font_class": "F_square",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "15323312",
+      "name": "E_square_字母e",
+      "font_class": "E_square",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "15323314",
+      "name": "K_square_字母k",
+      "font_class": "K_square",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "15323315",
+      "name": "J_square_字母j",
+      "font_class": "J_square",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "15323316",
+      "name": "M_square_字母m",
+      "font_class": "M_square",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "15323318",
+      "name": "N_square_字母n",
+      "font_class": "N_square",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "15323319",
+      "name": "H_square_字母h",
+      "font_class": "H_square",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "15323321",
+      "name": "T_square_字母t",
+      "font_class": "T_square",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "15323322",
+      "name": "P_square_字母p",
+      "font_class": "P_square",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "15323323",
+      "name": "V_square_字母v",
+      "font_class": "V_square",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "15323326",
+      "name": "Y_square_字母y",
+      "font_class": "Y_square",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "15323327",
+      "name": "X_square_字母x",
+      "font_class": "X_square",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "15323328",
+      "name": "W_square_字母w",
+      "font_class": "W_square",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "15323393",
+      "name": "A_round_字母a_by_climei",
+      "font_class": "A_round",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "15323396",
+      "name": "C_round_字母c",
+      "font_class": "C_round",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "15323494",
+      "name": "D_round_字母d",
+      "font_class": "D_round",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15323497",
+      "name": "I_round_字母i",
+      "font_class": "I_round",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "15323500",
+      "name": "L_round_字母l",
+      "font_class": "L_round",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "15323501",
+      "name": "Q_round_字母q",
+      "font_class": "Q_round",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "15323506",
+      "name": "R_round_字母r",
+      "font_class": "R_round",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "15323509",
+      "name": "U_round_字母u",
+      "font_class": "U_round",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "15323510",
+      "name": "G_round_字母g",
+      "font_class": "G_round",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "15323513",
+      "name": "O_round_字母o",
+      "font_class": "O_round",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "15323514",
+      "name": "S_round_字母s",
+      "font_class": "S_round",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "15323516",
+      "name": "Z_round_字母z",
+      "font_class": "Z_round",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}

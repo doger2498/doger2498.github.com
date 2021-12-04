@@ -1,0 +1,171 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2980074 */
+  src: url('iconfont.woff2?t=1638347253211') format('woff2'),
+       url('iconfont.woff?t=1638347253211') format('woff'),
+       url('iconfont.ttf?t=1638347253211') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shuzi0:before {
+  content: "\e696";
+}
+
+.icon-shuzi1:before {
+  content: "\e622";
+}
+
+.icon-shuzi5:before {
+  content: "\e626";
+}
+
+.icon-shuzi2:before {
+  content: "\e627";
+}
+
+.icon-shuzi3:before {
+  content: "\e628";
+}
+
+.icon-shuzi6:before {
+  content: "\e62b";
+}
+
+.icon-shuzi7:before {
+  content: "\e62c";
+}
+
+.icon-shuzi8:before {
+  content: "\e62d";
+}
+
+.icon-shuzi9:before {
+  content: "\e62e";
+}
+
+.icon-shuzi4:before {
+  content: "\e70c";
+}
+
+.icon-jianshaoshuzi:before {
+  content: "\e639";
+}
+
+.icon-zengjiashuzi:before {
+  content: "\e641";
+}
+
+.icon--shuzi:before {
+  content: "\e6cc";
+}
+
+.icon-B_square:before {
+  content: "\e629";
+}
+
+.icon-F_square:before {
+  content: "\e62f";
+}
+
+.icon-E_square:before {
+  content: "\e630";
+}
+
+.icon-K_square:before {
+  content: "\e631";
+}
+
+.icon-J_square:before {
+  content: "\e632";
+}
+
+.icon-M_square:before {
+  content: "\e633";
+}
+
+.icon-N_square:before {
+  content: "\e634";
+}
+
+.icon-H_square:before {
+  content: "\e635";
+}
+
+.icon-T_square:before {
+  content: "\e636";
+}
+
+.icon-P_square:before {
+  content: "\e637";
+}
+
+.icon-V_square:before {
+  content: "\e638";
+}
+
+.icon-Y_square:before {
+  content: "\e63a";
+}
+
+.icon-X_square:before {
+  content: "\e63b";
+}
+
+.icon-W_square:before {
+  content: "\e63c";
+}
+
+.icon-A_round:before {
+  content: "\e63d";
+}
+
+.icon-C_round:before {
+  content: "\e63e";
+}
+
+.icon-D_round:before {
+  content: "\e63f";
+}
+
+.icon-I_round:before {
+  content: "\e640";
+}
+
+.icon-L_round:before {
+  content: "\e642";
+}
+
+.icon-Q_round:before {
+  content: "\e643";
+}
+
+.icon-R_round:before {
+  content: "\e644";
+}
+
+.icon-U_round:before {
+  content: "\e645";
+}
+
+.icon-G_round:before {
+  content: "\e646";
+}
+
+.icon-O_round:before {
+  content: "\e647";
+}
+
+.icon-S_round:before {
+  content: "\e648";
+}
+
+.icon-Z_round:before {
+  content: "\e649";
+}
+
